@@ -25,5 +25,4 @@ elif(unidadesDeLeche > 24 and esJubiado):
     print("unidadesDeLeche > 24 and esJubiado")
     montoAPagar = montoParcial * 0.75
 
-print(f"El monto sin descuento es: {montoParcial} 
-            y el monto total a pagar es: {montoAPagar}")
+print(f"El monto sin descuento es: {montoParcial} y el monto total a pagar es: {montoAPagar}")
