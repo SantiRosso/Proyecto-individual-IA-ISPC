@@ -1,4 +1,3 @@
-# numero_positivo_negativo.py
 # Este programa determina si un número es positivo o negativo.
 
 # Entrada

@@ -1,4 +1,3 @@
-# mayor_edad.py
 # Este programa determina si una persona es mayor de edad.
 
 # Entrada

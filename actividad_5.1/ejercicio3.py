@@ -1,4 +1,3 @@
-# numero_en_rango.py
 # Este programa verifica si un número está en el rango [10, 20].
 
 # Entrada

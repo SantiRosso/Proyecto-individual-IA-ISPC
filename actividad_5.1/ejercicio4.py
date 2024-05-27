@@ -1,4 +1,3 @@
-# divisible_por_2_o_5.py
 # Este programa determina si un número es divisible por 2 o por 5.
 
 # Entrada
